@@ -22,6 +22,9 @@ function Parent() {
     console.log("Count Updated");
   }, [count]);
 
+
+
+  
   return (
     <>
       <div>Parent</div>
